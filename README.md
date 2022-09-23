@@ -1,1 +1,1 @@
-# IA-lesson3
+# mentoring-simple-webpack-starter
